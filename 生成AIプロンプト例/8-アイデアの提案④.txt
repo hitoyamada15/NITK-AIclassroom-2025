@@ -1,0 +1,11 @@
+８．アイデアの提案④
+
+【プロンプトの例】
+
+・エクセルでエクセルで万年カレンダーを作成する方法を教えてください。
+
+・YouTubeのような動画配信サイトを作りたいので、HTMLとCSSで構成されるコードを生成してください。
+
+・pythonでjsonファイルに各パラメータの値を書き込むプログラムを教えてください。
+
+・エラーが発生しました。解決策を教えてください。json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 11 column 1 (char 128)
